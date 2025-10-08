@@ -6,7 +6,14 @@ let colors = [
     'red',
     'yellow',
     'blue',
-    'purple'
+    'green',
+    'skyblue',
+    'mediumpurple',
+    'pink',
+    'aqua',
+    'black',
+    'orange',
+    
 ];
 
 box1.onclick = function() {

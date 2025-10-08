@@ -9,19 +9,12 @@ body {
 
 .box {
     background-color: black;
-    width: 150px;
-    margin: 200px;
+    width: 90%;
+    margin: 8px auto;
     transition: all 0.25s ease-in;
-    font-size: 10px;
+    font-size: 14px;
     padding: 4px;
     border: black 2px solid;
-}
-
-.box:hover {
-    transform: scale(2.5) rotateZ(360deg);
-}
-.box {
-    transform: scale(2.5) rotateZ(360deg);
 }
 
 .box  .color {
