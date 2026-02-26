@@ -26,3 +26,5 @@ box1.onclick = function() {
 for (let idx in colors) {
     list.innerHTML += `<div class="color" style="color: ${colors[idx]}">${colors[idx]}</div>`
 }
+
+console.log(list);
